@@ -1,0 +1,5 @@
+a-  git pull récupère tout l'historique du dépot nommé et met les modifications
+git fetch récupère tout l'historique du dépot nommé 
+b-$ git result
+c-git "nomdelabranche" -b
+d-
